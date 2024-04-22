@@ -6,7 +6,7 @@ This project tackles messy housing market data in MySQL, with the aim of identif
 
 <h2>Languages and Utilities Used</h2>
 
-- <b>SQL</b> 
+- <b>MySQL</b> 
 
 <h2>Environments Used </h2>
 
